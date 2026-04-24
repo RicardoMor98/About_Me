@@ -1,9 +1,41 @@
-👋 Hi, I’m Ricardo Moreira, a 26-year-old software development enthusiast/student at Code Institute from Porto, Portugal (currently living in Germany).
+  👋 Hi, I’m Ricardo Moreira
 
-💻 With a strong passion for technology and a focus on problem-solving, I’m actively expanding my skills in React.js and web development. I bring knowledge in HTML5, CSS, JavaScript, Python, and Django, along with proficiency in working with PostgreSQL databases, and deploying applications on platforms like Heroku and Gitpod.
+🔐 Cybersecurity enthusiast focused on building skills in threat detection, incident response, and network security.
 
-🎾 Before transitioning to tech, I was a professional tennis player and coach. The discipline, focus, and resilience I developed on the court have shaped my approach to software development and teamwork.
+🎓 Certified in the Google Cybersecurity Specialization (Coursera), with hands-on experience in:
 
-🎮 In my free time, I’m a dedicated gamer who enjoys exploring the web, staying up to date with tech trends, and discovering new tools and frameworks. My ambition is to build a meaningful career in the IT industry and make a lasting impact in the field.
+SIEM tools & log analysis
+Linux, SQL, and Python for security tasks
+Incident response & vulnerability assessment
 
-📫 Feel free to reach out to me at ricardo.moreira98@gmail.com—I’m always open to connecting with like-minded professionals and exploring exciting opportunities!
+💻 Background in software development (Code Institute):
+
+HTML, CSS, JavaScript
+Python & Django
+PostgreSQL
+Deployment: Heroku, Gitpod
+
+🛠️ Interested in:
+
+SOC Analyst / Blue Team roles
+Security automation with Python
+Exploring Red Teaming (penetration testing & ethical hacking)
+
+📌 Projects
+
+🔎 Port Scanner & Service Analyzer
+
+Python-based tool inspired by Nmap
+Scans open ports and identifies running services
+Includes basic checks for known vulnerabilities on exposed services
+Helps understand network exposure and attack surface
+
+🛡️ SQL Injection Testing Tool
+
+Application designed to detect SQL injection vulnerabilities in web applications
+Tests input fields against common injection techniques
+Focused on secure coding awareness and vulnerability identification
+
+⚠️ Built for educational purposes and ethical security testing only.
+
+🚧 Work in progress — documentation is being added.
